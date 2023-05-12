@@ -48,7 +48,7 @@ function Slider() {
 
     return listings && (
         <>
-            <p className="ExploreHeading">Recommended</p>
+            <p className="exploreHeading">Recommended</p>
 
             <Swiper
                 modules={[Navigation, Pagination, Scrollbar, A11y]}
