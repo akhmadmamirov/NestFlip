@@ -21,9 +21,8 @@ NestFlip is a platform designed for users to list, sell, or rent houses. The pro
 - Integration of Google OAuth for secure user registration and login.
 - Utilization of Google GeoCoding to display addresses of listed houses.
 <img width="400" alt="offers" src="https://github.com/akhmadmamirov/NestFlip/assets/105142060/74a48235-3cc6-416d-b754-9a76edb3523b">
-- Embedded maps for house postings using Leaflet Js and React Leaflet.
 <img width="400" alt="one" src="https://github.com/akhmadmamirov/NestFlip/assets/105142060/7e831eb8-9158-4635-9ade-5e3ebaa25a4e">
-
+- Embedded maps for house postings using Leaflet Js and React Leaflet.
 
 
 
