@@ -15,14 +15,14 @@ NestFlip is a platform designed for users to list, sell, or rent houses. The pro
 - Implementation of Firebase for backend, database, file storage, and authentication.
 <img width="493" alt="login" src="https://github.com/akhmadmamirov/NestFlip/assets/105142060/baaab2d8-ed1f-4264-8542-550fd49971f3">
 
-  - Utilization of Firestore database.
+- Utilization of Firestore database.
 - Design of user profiles, enabling users to interact with the platform.
-  - Users can list, sell, or rent houses.
+- Users can list, sell, or rent houses.
 - Integration of Google OAuth for secure user registration and login.
 - Utilization of Google GeoCoding to display addresses of listed houses.
-<img width="495" alt="offers" src="https://github.com/akhmadmamirov/NestFlip/assets/105142060/74a48235-3cc6-416d-b754-9a76edb3523b">
+<img width="400" alt="offers" src="https://github.com/akhmadmamirov/NestFlip/assets/105142060/74a48235-3cc6-416d-b754-9a76edb3523b">
 - Embedded maps for house postings using Leaflet Js and React Leaflet.
-<img width="491" alt="one" src="https://github.com/akhmadmamirov/NestFlip/assets/105142060/7e831eb8-9158-4635-9ade-5e3ebaa25a4e">
+<img width="400" alt="one" src="https://github.com/akhmadmamirov/NestFlip/assets/105142060/7e831eb8-9158-4635-9ade-5e3ebaa25a4e">
 
 
 
